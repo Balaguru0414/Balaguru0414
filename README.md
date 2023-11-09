@@ -33,5 +33,8 @@
   
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
-  
+</p>
+
+<p>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=balaguru0414&layout=compact&theme=radical"></a>
 </p>
