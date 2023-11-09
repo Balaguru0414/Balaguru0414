@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
 
 <!-- <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react" /> -->
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=jquery&logoColor=white" alt="react" />
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white" alt="react" />
   
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   
