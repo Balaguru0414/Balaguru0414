@@ -36,5 +36,5 @@
 </p>
 
 <p>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=balaguru0414&layout=compact&theme=radical"></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaguru0414&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
