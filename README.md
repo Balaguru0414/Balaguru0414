@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaguru</h1>
-<h3 align="center">A Frontend Web Developer from India</h3>
+<h3 align="center">A Frontend Web Developer</h3>
 
 <h3>About Me:</h3>
 
