@@ -36,4 +36,5 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaguru0414&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Balaguru's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaguru0414&show_icons=true&theme=radical&hide=issues&count_private=true)
 
