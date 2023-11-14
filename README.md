@@ -35,6 +35,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaguru0414&layout=compact&theme=radical) <br>
-![Balaguru's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaguru0414&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Balaguru's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaguru0414&show_icons=true&hide=issues,prs&theme=radical&count_private=true)
 
 
