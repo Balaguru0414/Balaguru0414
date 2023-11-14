@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Balaguru</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Balaguru's+GitHub!;I'm+a+front-end+Developer!" alt="Typing SVG" />
+
 <h3>About Me:</h3>
 
 - 🌱 Currently learning **Nextjs**
