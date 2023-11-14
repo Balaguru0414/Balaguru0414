@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=fff&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Balaguru's+GitHub!;I'm+a+front-end+Developer!" alt="Typing SVG" />
-<div>
+</div>
     
 <h3>About Me:</h3>
 
