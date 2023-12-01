@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Balaguru</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=fff&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Balaguru's+GitHub!;I'm+a+front-end+Developer!" alt="Typing SVG" />
+    <h2>I am a Front-End Developer</h2>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=500&color=fff&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Balaguru's+GitHub!;I'm+a+front-end+Developer!" alt="Typing SVG" /> -->
 </div>
     
 <h3>About Me:</h3>
