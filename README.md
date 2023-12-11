@@ -7,7 +7,7 @@
     
 <h3>About Me:</h3>
 
-- 🌱 Currently learning **Nextjs**
+- 🌱 Currently learning **React Advanced**
 - 💡 Building projects
 
 <h3 align="left">Connect with me:</h3
